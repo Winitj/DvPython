@@ -1,10 +1,38 @@
-{
-  "Job ID": "a",
-  "Job Name": "as-final-stepfunction-gluejob",
-  "Start Time": "2023-12-12T15:54:50.146000+05:30",
-  "End Time": "2023-12-12T15:55:30.406000+05:30",
-  "Worker type": "G.1X",
-  "Job Status": "SUCCEEDED",
-  "Execution Time": 32,
-  "Number Of Workers": 10
-}
+[
+  [
+    {
+      "Job ID": "jr_fe96fa",
+      "Job Name": "as-final-stepfunction-gluejob",
+      "Start Time": "2023-12-12T15:54:50.146000+05:30",
+      "End Time": "2023-12-12T15:55:30.406000+05:30",
+      "Worker type": "G.1X",
+      "Job Status": "SUCCEEDED",
+      "Execution Time": 32,
+      "Number Of Workers": 10
+    }
+  ],
+  [
+    {
+      "Job ID": "6fa",
+      "Job Name": "as-final-stepfunction-gluejob",
+      "Start Time": "2023-12-12T15:54:50.146000+05:30",
+      "End Time": "2023-12-12T15:55:30.406000+05:30",
+      "Worker type": "G.1X",
+      "Job Status": "SUCCEEDED",
+      "Execution Time": 32,
+      "Number Of Workers": 10
+    }
+  ],
+  [
+    {
+      "Job ID": "a",
+      "Job Name": "as-final-stepfunction-gluejob",
+      "Start Time": "2023-12-12T15:54:50.146000+05:30",
+      "End Time": "2023-12-12T15:55:30.406000+05:30",
+      "Worker type": "G.1X",
+      "Job Status": "SUCCEEDED",
+      "Execution Time": 32,
+      "Number Of Workers": 10
+    }
+  ]
+]

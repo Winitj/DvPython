@@ -1,0 +1,392 @@
+[
+    {
+        "Id": "jr_fe96fa36b6aad130610568eb874377eda5ca913f031c2cc0e17dff6212a3843d",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:50.146000+05:30",
+        "CompletedOn": "2023-12-12T15:55:30.406000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 32,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_d75d6bd88caabfe39c71c83df86a1ccadfeff0e0f2d2e218443db8df24591e3e",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:45.597000+05:30",
+        "CompletedOn": "2023-12-12T15:55:37.521000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 45,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_b71227c583dac752bdc2a0a20eee2d3de3a435a4bf9925ca2127cf185d5959df",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:41.755000+05:30",
+        "CompletedOn": "2023-12-12T15:55:22.317000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 34,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_f0b668b3595fd29578f11595dd5dddf24f965a0f8dd8b7f4a1b50146470ac7ed",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:37.755000+05:30",
+        "CompletedOn": "2023-12-12T15:55:16.369000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 32,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_4e31bed21ceed21de4cf54341fe0e829173fe384f9b6949311ea4d015354d6b2",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:34.128000+05:30",
+        "CompletedOn": "2023-12-12T15:55:20.277000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 39,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_103178de102f168c702d15e73c89f3cd607237ca213f76f0f4d4e5e64a603342",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:28.890000+05:30",
+        "CompletedOn": "2023-12-12T15:55:13.789000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 38,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_18ff42569910dacdca8184cb9613b0e5171740f501c9676998d8ed3947fcbfab",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-12T15:54:13.940000+05:30",
+        "CompletedOn": "2023-12-12T15:55:07.836000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 47,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_3cffea3de2df3aa26786ad6988b58565f29d6da41b33fb3e91284a115b1c6095",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:28:46.466000+05:30",
+        "CompletedOn": "2023-12-11T16:29:28.508000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 34,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_30cdcb64eb868c43884299c4383e95a8f3f07e94c44b99765844795490dc09ea",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:28:39.882000+05:30",
+        "CompletedOn": "2023-12-11T16:29:35.930000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 45,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_da6229bcc14e71aa600444f7616efcc3c095c697370a2f20b3ddfd1232617564",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:28:34.166000+05:30",
+        "CompletedOn": "2023-12-11T16:29:16.166000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_1e1081101f7b3323cfbe6c1786fb58a3b196cb62d8977a024419d22325db72d1",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:28:28.315000+05:30",
+        "CompletedOn": "2023-12-11T16:29:11.121000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 36,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_1e3bded4adc6a5d66271d1d6fd50d7f89e7b703277aa8f4436349a7130cdb3af",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:28:22.145000+05:30",
+        "CompletedOn": "2023-12-11T16:29:04.582000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 36,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_aba65302288d3a1c0e121f62fd787b148c2385605b426fa78b618692e6a6c4ef",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:28:15.444000+05:30",
+        "CompletedOn": "2023-12-11T16:29:09.410000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 47,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_314e212286833a6a2d9b48374392770b52bf89bd2e1d0147d97450fea02fe57e",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T16:15:06.889000+05:30",
+        "CompletedOn": "2023-12-11T16:15:58.728000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 44,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_63b4d0803b3d113333ac7f6e2496bc49e315ba6cf53d5236805060ba68cb88b8",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T15:59:53.578000+05:30",
+        "CompletedOn": "2023-12-11T16:00:35.126000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_c40aff630f982f450550911ff340053d78446288ad3d3ed6f5cd489147efcb0e",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T15:49:53.081000+05:30",
+        "CompletedOn": "2023-12-11T15:50:28.015000+05:30",
+        "JobRunState": "FAILED",
+        "ExecutionTime": 28,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_d3178b84256f734dfefb6f56ee86dbe2e0110f6364fc671fb4f62c0dbbcffbc2",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-12-11T15:48:02.312000+05:30",
+        "CompletedOn": "2023-12-11T15:48:52.754000+05:30",
+        "JobRunState": "FAILED",
+        "ExecutionTime": 43,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_b3cf0fbb186db21a62f89d5479107fd86a965a246f00afa8a987fd1e69472573",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-26T14:07:49.036000+05:30",
+        "CompletedOn": "2023-07-26T14:08:32.481000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 36,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_e67e4878cda3e8fa3ac4f1fa63ec68601c63785f672d395c4c89d39bdfaae762",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-26T14:07:49.009000+05:30",
+        "CompletedOn": "2023-07-26T14:08:32.676000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 36,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_7bcd2f9ae0dca9bf5ed8d7f1bcbbe172c44b28741dcb54f75efad85017e2e875",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T18:33:10.421000+05:30",
+        "CompletedOn": "2023-07-24T18:46:50.613000+05:30",
+        "JobRunState": "STOPPED",
+        "ExecutionTime": 812,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_4f4a997618e2df9bd1b89629d787411e5152f24a15ab55dc4b63a504baf75b81",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T15:08:09.327000+05:30",
+        "CompletedOn": "2023-07-24T15:22:23.255000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 846,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_b0d36fad9f225a016382129eeec9667f831f74efc1919701e51ae4c57862e132",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T15:08:09.267000+05:30",
+        "CompletedOn": "2023-07-24T15:08:54.126000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 37,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_a3588d63c6bb0e6e5cbf43f6cd2a673bb3255c27e71b6ecd8e410f85d3e9c6f1",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T12:29:18.043000+05:30",
+        "CompletedOn": "2023-07-24T12:29:58.680000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 34,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_c25d789992f6b179fc3b5ca2811f0de3e13e6b52dfb9168fed1bd1c9459443a2",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T12:29:18.009000+05:30",
+        "CompletedOn": "2023-07-24T12:30:01.065000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 36,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_af1422e94361475aba2b256dbb7d2993089f7eb7ae10847384d8901ffe146250",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.716000+05:30",
+        "CompletedOn": "2023-07-24T12:01:35.059000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 764,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_64f6d80f7639645673bb7c4c5c93a2590d8e100a4dd28d52cf3aa6c7c92dc9b9",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.601000+05:30",
+        "CompletedOn": "2023-07-24T11:49:31.100000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 37,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_bc60911e391759a8880830cc188ee4d80d36581816dece1e330a05775afa4a66",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.575000+05:30",
+        "CompletedOn": "2023-07-24T12:01:44.426000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 774,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_fb1a2b83383fbf1ddc89ded577131e7497a992714ba5bd977dfa0e84b2e661b3",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.566000+05:30",
+        "CompletedOn": "2023-07-24T11:49:31.701000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_45dcdedd2e5cbc23e7609e25acce3fd9ea63a8bc2d210e358a12d315ff148f50",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.563000+05:30",
+        "CompletedOn": "2023-07-24T11:49:27.794000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_a76bc27f31a7c1f371b6f3735cbbf15d48295adacd59fe2d358a378bfa5c3748",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.562000+05:30",
+        "CompletedOn": "2023-07-24T11:49:29.149000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_a2fb255c14da39b3c317223e42055de3fdd84bad9024516a2396cf1eda9bcf2b",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.559000+05:30",
+        "CompletedOn": "2023-07-24T11:49:28.226000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 33,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_84a03951da7f7ed10ee95f93d2575e0dad6242190ee1ba2ccfc329a0c70814db",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.558000+05:30",
+        "CompletedOn": "2023-07-24T11:49:26.552000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_a667f8d44fba6ee3b5eeb4afacd8ed0e6f4ddc16c8936fe7a6763e6e9c34cb79",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.557000+05:30",
+        "CompletedOn": "2023-07-24T11:49:29.081000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_a88e5a5f2f9f8f8a3791907c6501277c5c461a41b9a0f2b33a5ff0606034fd31",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.549000+05:30",
+        "CompletedOn": "2023-07-24T11:49:31.843000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 34,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_9f606b1d11eb2f3f396e016788e3b8bafa980607b0c4534e1645c06a037c00f8",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.545000+05:30",
+        "CompletedOn": "2023-07-24T11:49:25.069000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_c795c3934749ce8c9b2e9d117007db9048f96b726192c6860371a45bbcdcbe39",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.543000+05:30",
+        "CompletedOn": "2023-07-24T11:49:26.810000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 33,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_fafeaed04914910013a79a13c21d0de5d74dec42356dd513564da65b527a6853",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.540000+05:30",
+        "CompletedOn": "2023-07-24T11:49:25.749000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 34,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_4ca2ab325ec48bb4b940e7851a52ab477cb1fdb14c694e75244966cb6a942469",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.535000+05:30",
+        "CompletedOn": "2023-07-24T11:49:28.452000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 38,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    },
+    {
+        "Id": "jr_4278499535195406d4b21d0aeb3da7d29211844df1bde8ecfe5c3d0366b860b9",
+        "JobName": "as-final-stepfunction-gluejob",
+        "StartedOn": "2023-07-24T11:48:43.523000+05:30",
+        "CompletedOn": "2023-07-24T11:49:25.498000+05:30",
+        "JobRunState": "SUCCEEDED",
+        "ExecutionTime": 35,
+        "WorkerType": "G.1X",
+        "NumberOfWorkers": 10
+    }
+]
